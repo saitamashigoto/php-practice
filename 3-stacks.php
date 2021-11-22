@@ -126,3 +126,5 @@ class ThreeStacks {
 }
 
 $stack = new ThreeStacks();
+
+$stack->pushOnFirst();
